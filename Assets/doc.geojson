@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "Vet Clinics",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "#1", "description": "53 Dogs\n45 Cats" }, "geometry": { "type": "Point", "coordinates": [ 48.415602, -18.92242 ] } },
+{ "type": "Feature", "properties": { "Name": "#2", "description": "13 Dogs\n1 Cat" }, "geometry": { "type": "Point", "coordinates": [ 48.379409, -18.86168 ] } },
+{ "type": "Feature", "properties": { "Name": "#3", "description": "12 Dogs\n2 Cats\n" }, "geometry": { "type": "Point", "coordinates": [ 48.34988, -18.855377 ] } },
+{ "type": "Feature", "properties": { "Name": "#4", "description": "6 Dogs\n0 Cats" }, "geometry": { "type": "Point", "coordinates": [ 48.341301, -18.851877 ] } },
+{ "type": "Feature", "properties": { "Name": "#5", "description": "8 Dogs\n1 Cat " }, "geometry": { "type": "Point", "coordinates": [ 48.372563, -18.855565 ] } },
+{ "type": "Feature", "properties": { "Name": "#6", "description": "15 Dogs\n7 Cats" }, "geometry": { "type": "Point", "coordinates": [ 48.432447, -18.900936 ] } },
+{ "type": "Feature", "properties": { "Name": "#7", "description": "10 Dogs\n1 Cat" }, "geometry": { "type": "Point", "coordinates": [ 48.424124, -18.861598 ] } },
+{ "type": "Feature", "properties": { "Name": "#8", "description": "6 Dogs\n1 Cat" }, "geometry": { "type": "Point", "coordinates": [ 48.428429, -18.842625 ] } },
+{ "type": "Feature", "properties": { "Name": "#9", "description": "17 Dogs\n0 Cats" }, "geometry": { "type": "Point", "coordinates": [ 48.474296, -18.910893 ] } },
+{ "type": "Feature", "properties": { "Name": "#10", "description": "5 Cats\n2 Cats" }, "geometry": { "type": "Point", "coordinates": [ 48.417827, -18.953493 ] } },
+{ "type": "Feature", "properties": { "Name": "#11", "description": "8 Dogs\n0 Cats\n" }, "geometry": { "type": "Point", "coordinates": [ 48.43245, -18.770609 ] } },
+{ "type": "Feature", "properties": { "Name": "#12", "description": "0 Dogs\n1 Cat" }, "geometry": { "type": "Point", "coordinates": [ 48.464121, -18.948197 ] } },
+{ "type": "Feature", "properties": { "Name": "#13", "description": "34 Dogs\n9 Cats" }, "geometry": { "type": "Point", "coordinates": [ 48.228693, -18.909863 ] } },
+{ "type": "Feature", "properties": { "Name": "#14", "description": "26 Dogs\n4 Cats" }, "geometry": { "type": "Point", "coordinates": [ 48.233302, -18.852444 ] } },
+{ "type": "Feature", "properties": { "Name": "#15", "description": "20 Dogs\n4 Cats" }, "geometry": { "type": "Point", "coordinates": [ 48.233309, -18.852446 ] } },
+{ "type": "Feature", "properties": { "Name": "#16", "description": "15 Dogs\n5 Cats" }, "geometry": { "type": "Point", "coordinates": [ 48.236303, -18.895955 ] } },
+{ "type": "Feature", "properties": { "Name": "#17", "description": "20 Dogs\n1 Cat" }, "geometry": { "type": "Point", "coordinates": [ 48.160778, -18.949672 ] } },
+{ "type": "Feature", "properties": { "Name": "#18", "description": "24 Dogs\n5 Cats" }, "geometry": { "type": "Point", "coordinates": [ 48.231292, -18.852476 ] } }
+]
+}
